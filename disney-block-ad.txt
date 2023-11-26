@@ -5,3 +5,4 @@ varnish04-c02-mia1-dss-vod-dssc-shield.tr.na.prod.dssedge.com
 arnish04-c02-mia1-dss-vod-dssc-shield.tr.na.prod.dssedge.com
 crl.root-x1.letsencrypt.org.edgekey.net
 e8652.dscx.akamaiedge.net
+doppler-tasks.cbsivideo.com
